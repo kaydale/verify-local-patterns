@@ -1,7 +1,4 @@
 # Verify Local Patterns
-
-## About this project
-
 This is a prototype of some content that will be included in the [GOV.UK Service Manual](https://gov.uk/service-manual) about the best practice for councils to deliver two services - parking permits and concessionary travel. The repo also includes a working prototype of both services which follows the guidance, as deliver by the fictional council of Argleton.
 
 ## Project management
